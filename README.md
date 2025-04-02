@@ -41,7 +41,7 @@ Soy un apasionado desarrollador de software con experiencia en **Java, Kotlin, P
 ---
 
 ## 📫 Contacto  
-📍 **Ubicación:** Conchucos, Pallasca, Áncash, Perú  
+📍 **Ubicación:** Nuevo Chimbote - Ancash 
 📧 **Correo:** [elquin1357@gmail.com](mailto:elquin1357@gmail.com)  
 📞 **Teléfono:** +51 929153035  
 🔗 **LinkedIn:** [linkedin.com/in/elquinaguilar](#)  
