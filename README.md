@@ -78,7 +78,7 @@ Puedes encontrar más en la sección de [repositorios](https://github.com/mc-tha
 ## 👥 Conectemos
 
 <section style="text-align: center;">
-  <a href="https://linkedin.com/in/tuPerfil" target="_blank">
+  <a href="www.linkedin.com/in/elquin-aguilar-quiñones-637893292" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
   <a href="mailto:elquin1357@gmail.com" target="_blank">
